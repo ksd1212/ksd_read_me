@@ -1,81 +1,161 @@
-# Hi, I'm Sai Deepak
+<h1 align="center">Sai Deepak</h1>
 
-ECE Undergraduate | Embedded Systems | AI & IoT
+<p align="center">
+ECE Student | Industrial Automation | Robotics
+</p>
 
 ---
 
 ## About Me
 
-* Engineering student focused on building real-world systems
-* Strong interest in Embedded Systems, Robotics, and AI integration
-* Currently working on projects combining hardware and intelligent systems
-* Long-term goal: Build scalable technology solutions and a tech-driven business
+I am an Electronics and Communication Engineering student currently focused on building practical skills in Industrial Automation and Robotics.
+
+My current learning areas include:
+
+- Delta PLC Programming
+- HMI Development using DOPSoft
+- ROS2 Robotics Framework
+- Embedded Systems using ESP32
+- Industrial Communication Concepts
+
+I prefer project-based learning and document my progress publicly through GitHub repositories.
 
 ---
 
-## Technical Skills
+## Current Tech Stack
 
-**Languages:**
-C, Python, C++, Java
+### Industrial Automation
 
-**Embedded & Hardware:**
-8051, ESP32, Arduino, STM32
+- Delta WPLSoft
+- Delta ISPSoft
+- Delta DOPSoft
 
-**Hardware Design & VLSI:**
-Verilog (Intel Quartus), KiCad
+### Robotics
 
-**AI / Software:**
-OpenCV, TensorFlow (basic and currently learning)
+- ROS2 (Learning)
+- Ubuntu on WSL
 
-**Tools:**
-Keil, Proteus, MATLAB, Simulink, VS Code
+### Programming
 
----
+- Python
+- C
 
-## Projects
+### Embedded Systems
 
-**Smart Street Light System (8051)**
-
-* Automated lighting using LDR and PIR sensors
-* Focus on energy efficiency and real-time response
-
-**Object Detection using OpenCV**
-
-* Real-time object detection using computer vision
-* Implemented using Python and OpenCV
-
-**Signal Denoising using MATLAB (Automobile Sensors)**
-
-* Applied digital signal processing techniques to remove noise from sensor data
-* Improved signal clarity for better analysis and reliability
-* Implemented filtering techniques using MATLAB
-
-**ECG Signal Amplification System**
-
-* Designed and implemented an amplification circuit for ECG signals
-* Focused on low-noise amplification and signal clarity
-* Useful for biomedical signal processing applications
-
-**Autonomous Disaster Response Rover (Ongoing)**
-
-* GPS-free navigation system
-* Sensor-based obstacle detection and AI-based decision making
+- ESP32
 
 ---
 
-## Currently Learning
+## Current Projects
 
-* Advanced Embedded Systems (Interrupts, real-time systems)
-* AI integration with edge devices
-* System design for scalable applications
+### PLC Conveyor Control System
+
+Status: In Development
+
+Features:
+
+- Start/Stop Control
+- Motor Interlocking
+- Emergency Stop Logic
+- Simulation Testing
+
+Repository:
+[Add Repository Link]
+
+---
+
+### Water Tank Automation using PLC + HMI
+
+Status: Planned
+
+Features:
+
+- Automatic Pump Control
+- High Level Protection
+- Low Level Protection
+- HMI Monitoring
+
+Repository:
+[Add Repository Link]
+
+---
+
+### ESP32 IoT Dashboard
+
+Status: Prototype
+
+Features:
+
+- ESP32 Data Monitoring
+- Dashboard Interface
+- Future Sensor Integration
+
+Repository:
+[Add Repository Link]
+
+---
+
+### Autonomous Disaster Response Rover
+
+Status: Research & Planning
+
+Objective:
+
+Develop an autonomous rover capable of:
+
+- Navigation without GPS
+- Survivor Detection
+- Aid Delivery
+- Return-to-Base Functionality
+
+Planned Technologies:
+
+- ROS2
+- Computer Vision
+- Embedded Systems
+
+Repository:
+[Add Repository Link]
+
+---
+
+## Learning Roadmap (2026)
+
+### Industrial Automation
+
+- Delta PLC Advanced Programming
+- Delta HMI Development
+- Modbus Communication
+- Mitsubishi PLC
+
+### Robotics
+
+- ROS2 Fundamentals
+- Gazebo Simulation
+- SLAM
+- Navigation2
+
+### Embedded Systems
+
+- STM32
+- Sensor Integration
+- Real-Time Systems
+
+---
+
+## GitHub Goals
+
+- Upload all PLC projects with documentation
+- Build a ROS2 project portfolio
+- Develop industry-oriented automation projects
+- Contribute to open-source robotics projects
 
 ---
 
 ## Contact
 
-* Email: [saiddeeeepak5123@gmail.com](mailto:saiddeeeepak5123@gmail.com)
-* LinkedIn: www.linkedin.com/in/sai-deepak-k-58b252319
+Email: your_email_here
 
----
+LinkedIn: coming soon
 
 
