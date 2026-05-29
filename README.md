@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sai Deepak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Industrial+Automation+Enthusiast;Learning+ROS2+%26+Robotics;PLC+%2B+HMI+Developer;ESP32+Maker;Building+the+Future+One+Project+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Industrial+Automation+Engineer+in+Training;PLC+%7C+HMI+%7C+ROS2;Building+Industry+4.0+Solutions;Future+Robotics+%26+Automation+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLC-Delta-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HMI-DOPSoft-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ROS2-Learning-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Delta-PLC-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DOPSoft-HMI-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ROS2-Learning-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Industry%204.0-Automation-purple?style=for-the-badge">
 </p>
 
 ---
@@ -18,24 +18,26 @@
 ```yaml
 Name: Sai Deepak
 
-Degree: Electronics & Communication Engineering
+Education:
+  Electronics and Communication Engineering
 
 Current Focus:
-  - Delta PLC Programming
+  - Industrial Automation
+  - PLC Programming
   - HMI Development
   - ROS2 Robotics
-  - ESP32 Projects
+  - Industrial IoT
 
 Mission:
-  Become an Automation & Robotics Engineer
-  capable of building complete industrial systems.
+  Build intelligent industrial systems that combine
+  automation, robotics and Industry 4.0 technologies.
 ```
 
 ---
 
-# 🛠️ Current Tech Stack
+# 🛠️ Technologies I'm Working With
 
-### Industrial Automation
+## Industrial Automation
 
 <p>
 <img src="https://img.shields.io/badge/Delta%20PLC-FF6600?style=for-the-badge">
@@ -44,7 +46,7 @@ Mission:
 <img src="https://img.shields.io/badge/DOPSoft-4CAF50?style=for-the-badge">
 </p>
 
-### Robotics
+## Robotics
 
 <p>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge">
@@ -52,16 +54,19 @@ Mission:
 <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge">
 </p>
 
-### Programming
+## Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,github"/>
 </p>
 
-### Embedded Systems
+## Embedded & Industry 4.0
 
 <p>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge">
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge">
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge">
+<img src="https://img.shields.io/badge/Modbus-00599C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge">
 </p>
 
 ---
@@ -76,11 +81,11 @@ Mission:
 
 ---
 
-# 🔥 Current Projects
+# 🏭 Featured Projects
 
-## 🏭 PLC Conveyor Control System
+## PLC Conveyor Control System
 
-Industrial automation project using Delta PLC.
+Industrial conveyor automation using Delta PLC.
 
 ### Features
 
@@ -92,92 +97,140 @@ Industrial automation project using Delta PLC.
 
 ✅ Fault Handling
 
-✅ Simulation Testing
+✅ Conveyor Simulation
 
 ---
 
-## 💧 Water Tank Automation System
+## Water Tank Automation System
 
-PLC + HMI based automation project.
+PLC + HMI based industrial process automation.
 
 ### Features
 
 ✅ Automatic Pump Control
 
-✅ Low Level Protection
+✅ High-Level Protection
 
-✅ High Level Protection
+✅ Low-Level Protection
 
 ✅ HMI Monitoring
 
-✅ Alarm Logic
+✅ Alarm System
 
 ---
 
-## 📡 ESP32 Dashboard
+## Industrial Machine Monitoring & Predictive Maintenance Dashboard
 
-IoT monitoring project.
+Industry 4.0 based machine monitoring solution.
+
+### Planned Hardware
+
+✅ STM32 Controller
+
+✅ Industrial Sensors
+
+✅ Modbus RTU/TCP
+
+✅ MQTT Communication
 
 ### Features
 
-✅ ESP32 Integration
+✅ Temperature Monitoring
 
-✅ Dashboard Interface
+✅ Vibration Monitoring
 
-✅ Real-time Monitoring
+✅ Runtime Tracking
+
+✅ Maintenance Scheduling
+
+✅ Fault Alerts
+
+✅ Dashboard Analytics
+
+### Future Scope
+
+🔹 Predictive Maintenance
+
+🔹 AI Fault Detection
+
+🔹 Cloud Monitoring
+
+🔹 Digital Twin Integration
 
 ---
 
-## 🤖 Autonomous Disaster Response Rover
+## Smart Warehouse Monitoring Robot
 
-Long-Term Robotics Project
+Autonomous warehouse inspection robot.
 
-### Objectives
+### Planned Technologies
 
-✅ GPS-Free Navigation
+✅ ROS2
 
-✅ Survivor Detection
+✅ LiDAR
 
-✅ Aid Delivery
+✅ SLAM
 
-✅ Autonomous Return
+✅ Computer Vision
+
+### Features
+
+✅ Autonomous Navigation
+
+✅ Warehouse Mapping
+
+✅ Inventory Zone Monitoring
+
+✅ Obstacle Avoidance
+
+✅ Real-Time Reporting
+
+### Future Scope
+
+🔹 Inventory Tracking
+
+🔹 Multi-Robot Fleet
+
+🔹 Warehouse Digital Twin
 
 ---
 
 # 📈 Learning Progress
 
 ```text
-PLC Programming        ██████████░░ 85%
+Delta PLC Programming           ██████████░░ 85%
 
-HMI Development        ████████░░░░ 70%
+HMI Development                ████████░░░░ 70%
 
-ESP32 Projects         ███████░░░░░ 60%
+Industrial Communications      ████░░░░░░░░ 35%
 
-ROS2 Fundamentals      ███░░░░░░░░░ 25%
+ROS2 Fundamentals              ███░░░░░░░░░ 25%
 
-Gazebo Simulation      ██░░░░░░░░░░ 15%
+Gazebo Simulation              ██░░░░░░░░░░ 15%
 
-STM32                  ░░░░░░░░░░░░ 0%
+SLAM & Navigation              █░░░░░░░░░░░ 10%
 ```
 
 ---
 
 # 🎯 2026 Goals
 
-- [ ] Master Delta PLC
-- [ ] Learn Mitsubishi PLC
+- [ ] Master Delta PLC Programming
+- [ ] Learn Mitsubishi PLC Platform
+- [ ] Learn Modbus Communication
 - [ ] Complete ROS2 Fundamentals
-- [ ] Build a ROS2 Mobile Robot
 - [ ] Learn Gazebo Simulation
-- [ ] Build an Autonomous AGV
-- [ ] Develop Disaster Response Rover Prototype
+- [ ] Build Smart Warehouse Monitoring Robot
+- [ ] Build Industrial Machine Monitoring Dashboard
+- [ ] Learn SLAM & Navigation2
+- [ ] Secure Robotics / Automation Internship
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -193,28 +246,31 @@ STM32                  ░░░░░░░░░░░░ 0%
 ### 🤖 Robotics
 
 - ROS2-Learning-Journey
-- ROS2-Mobile-Robot
-- Disaster-Response-Rover
+- Smart-Warehouse-Monitoring-Robot
 
-### ⚡ Embedded Systems
+### ⚡ Industry 4.0
 
-- ESP32-Dashboard
-- ESP32-Experiments
+- Industrial-Machine-Monitoring-System
+- Predictive-Maintenance-Dashboard
 
 ---
 
-# 📅 Current Mission
+# 🔥 Current Mission
 
 ```text
-[1] Master Delta PLC              ██████████
+[✓] Learn PLC Fundamentals
 
-[2] Learn Advanced HMI            ████████░░
+[✓] Learn HMI Development
 
-[3] Complete ROS2 Basics          ███░░░░░░░
+[ ] Master Industrial Communications
 
-[4] Build Robotics Portfolio      ██░░░░░░░░
+[ ] Complete ROS2 Fundamentals
 
-[5] Secure Robotics Internship    █░░░░░░░░░
+[ ] Build Warehouse Monitoring Robot
+
+[ ] Build Industry 4.0 Monitoring Platform
+
+[ ] Secure Robotics Internship
 ```
 
 ---
@@ -230,13 +286,13 @@ STM32                  ░░░░░░░░░░░░ 0%
 ---
 
 <p align="center">
-  
-### ⚡ "Turning Automation Ideas into Real Systems"
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00C2FF&style=flat"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<h3 align="center">
+
+⚡ Turning Automation Ideas into Real Industrial Systems ⚡
+
+</h3>
